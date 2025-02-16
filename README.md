@@ -19,6 +19,11 @@ Hope it help someone who is looking for info you need.
 このプロジェクトが世界の誰かの助けになる事を祈ります。
 
 
+## Usage / 利用方法
+  A. Join off [discord](https://discord.gg/VmW5n2TWSr) / [discord](https://discord.gg/VmW5n2TWSr)へ参加する
+  B. Use URL on discord RSS Bot like [MonitoRSS](https://monitorss.xyz/) / URLを[MonitoRSS](https://monitorss.xyz/)などのdiscord Botで利用する
+  C. Self-host RSS workflow/bot yourself / 自前でRSSリーダー workflow/botを準備する
+
 ## Feed Provider / ニュース提供者
 =News (General)=
 - [United Kingdom of Great Britain and Northern Ireland (UK)](#united-kingdom-of-great-britain-and-northern-ireland-uk)
@@ -33,99 +38,115 @@ Hope it help someone who is looking for info you need.
 ### United Kingdom of Great Britain and Northern Ireland (UK)
 | Country  | Provider  | Category | URL |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| UK | [The Times](https://www.thetimes.com/)  | UK Politics  | Second Header |
-| 〃 | 〃 | UK Healthcare  | Second Header |
-| 〃 | 〃 | UK Education  | Second Header |
-| 〃 | 〃 | UK Crime  | Second Header |
-| 〃 | 〃 | UK Defence  | Second Header |
-| 〃 | 〃 | UK Scotland  | Second Header |
-| 〃 | 〃 | UK Enviroment  | Second Header |
-| 〃 | 〃 | UK Obituaries  | Second Header |
-| 〃 | 〃 | UK Royal Family  | Second Header |
-| 〃 | 〃 | UK Science  | Second Header |
-| 〃 | 〃 | UK Law  | Second Header |
-| 〃 | 〃 | UK Investigations  | Second Header |
-| 〃 | 〃 | Ireland  | Second Header |
-| 〃 | 〃 | Europe  | Second Header |
-| 〃 | 〃 | USA  | Second Header |
-| 〃 | 〃 | Asia  | Second Header |
-| 〃 | 〃 | Latin America  | Second Header |
-| 〃 | 〃 | Middle East  | Second Header |
-| 〃 | 〃 | Africa  | Second Header |
-| 〃 | 〃 | Australasia  | Second Header |
-| 〃 | 〃 | Russia & Ukraine War  | Second Header |
-| 〃 | 〃 | Israel Hamas War  | Second Header |
-| 〃 | 〃 | Money  | Second Header |
-| 〃 | 〃 | Economics  | Second Header |
-| 〃 | 〃 | Market & Tempus  | Second Header |
-| 〃 | 〃 | Technology  | Second Header |
-| 〃 | 〃 | Companies  | Second Header |
-| 〃 | 〃 | Energy  | Second Header |
-| 〃 | 〃 | Entrepreneurs  | Second Header |
+| UK | [The Times](https://www.thetimes.com/)  | UK Politics  | https://openrss.org/www.thetimes.com/uk |
+| 〃 | 〃 | UK Healthcare  | https://openrss.org/www.thetimes.com/uk/healthcare |
+| 〃 | 〃 | UK Education  | https://openrss.org/www.thetimes.com/uk/education |
+| 〃 | 〃 | UK Crime  | https://openrss.org/www.thetimes.com/uk/crime |
+| 〃 | 〃 | UK Defence  | https://openrss.org/www.thetimes.com/uk/defence |
+| 〃 | 〃 | UK Scotland  | https://openrss.org/www.thetimes.com/uk/scotland |
+| 〃 | 〃 | UK Enviroment  | https://openrss.org/www.thetimes.com/uk/environment |
+| 〃 | 〃 | UK Obituaries  | https://openrss.org/www.thetimes.com/uk/obituaries |
+| 〃 | 〃 | UK Royal Family  | https://openrss.org/www.thetimes.com/uk/royal-family |
+| 〃 | 〃 | UK Science  | https://openrss.org/www.thetimes.com/uk/science |
+| 〃 | 〃 | UK Law  | https://openrss.org/www.thetimes.com/uk/law |
+| 〃 | 〃 | UK Investigations  | https://openrss.org/www.thetimes.com/uk/investigations |
+| 〃 | 〃 | Ireland  | https://openrss.org/www.thetimes.com/world/ireland |
+| 〃 | 〃 | Europe  | https://openrss.org/www.thetimes.com/world/europe |
+| 〃 | 〃 | USA  | https://openrss.org/www.thetimes.com/world/us |
+| 〃 | 〃 | Asia  | https://openrss.org/www.thetimes.com/world/asia |
+| 〃 | 〃 | Latin America  | https://openrss.org/www.thetimes.com/world/latin-america |
+| 〃 | 〃 | Middle East  | https://openrss.org/www.thetimes.com/world/middle-east |
+| 〃 | 〃 | Africa  | https://openrss.org/www.thetimes.com/world/africa |
+| 〃 | 〃 | Australasia  | https://openrss.org/www.thetimes.com/world/australasia |
+| 〃 | 〃 | Russia & Ukraine War  | https://openrss.org/www.thetimes.com/world/russia-ukraine-war |
+| 〃 | 〃 | Israel Hamas War  | https://openrss.org/www.thetimes.com/world/israel-hamas-war |
+| 〃 | 〃 | Money  | https://openrss.org/www.thetimes.com/business-money/money |
+| 〃 | 〃 | Economics  | https://openrss.org/www.thetimes.com/business-money/economics |
+| 〃 | 〃 | Market & Tempus  | https://openrss.org/www.thetimes.com/business-money/markets-tempus |
+| 〃 | 〃 | Technology  | https://openrss.org/www.thetimes.com/business-money/technology |
+| 〃 | 〃 | Companies  | https://openrss.org/www.thetimes.com/business-money/companies |
+| 〃 | 〃 | Energy  | https://openrss.org/www.thetimes.com/business-money/energy |
+| 〃 | 〃 | Entrepreneurs  | https://openrss.org/www.thetimes.com/business-money/entrepreneurs |
 |  |  |   |  |
-| UK | [Financial Times](https://www.ft.com/) | UK Headline  | Second Header |
-| 〃 | 〃 | International Headline  | Second Header |
-| 〃 | 〃 | World  | Second Header |
-| 〃 | 〃 | Companies  | Second Header |
-| 〃 | 〃 | Tech  | Second Header |
-| 〃 | 〃 | Markets  | Second Header |
-| 〃 | 〃 | Climate  | Second Header |
-| 〃 | 〃 | Work & Carrier  | Second Header |
-| 〃 | 〃 | LEX  | Second Header |
-| 〃 | 〃 | Opinion  | Second Header |
+| UK | [Financial Times](https://www.ft.com/) | UK Headline  | https://www.ft.com/rss/home/uk |
+| 〃 | 〃 | International Headline  | http://www.ft.com/rss/home |
+| 〃 | 〃 | World  | https://www.ft.com/rss/world |
+| 〃 | 〃 | Companies  | https://www.ft.com/rss/companies |
+| 〃 | 〃 | Tech  | https://www.ft.com/rss/tech |
+| 〃 | 〃 | Markets  | https://www.ft.com/rss/markets |
+| 〃 | 〃 | Climate  | https://www.ft.com/rss/climate |
+| 〃 | 〃 | Work & Carrier  | https://www.ft.com/rss/work-careers |
+| 〃 | 〃 | LEX  | https://www.ft.com/rss/lex |
+| 〃 | 〃 | Opinion  | https://www.ft.com/rss/opinion |
 |  |  |   |  |
-| UK | [BBC](https://www.bbc.co.uk/) | Top Stories  | Second Header |
-| 〃 | 〃 | Business  | Second Header |
-| 〃 | 〃 | Politics  | Second Header |
-| 〃 | 〃 | Health  | Second Header |
-| 〃 | 〃 | Education & Family  | Second Header |
-| 〃 | 〃 | Science & Enviroment  | Second Header |
-| 〃 | 〃 | Technology  | Second Header |
-| 〃 | 〃 | UK  | Second Header |
-| 〃 | 〃 | England  | Second Header |
-| 〃 | 〃 | Scotland  | Second Header |
-| 〃 | 〃 | Wales  | Second Header |
-| 〃 | 〃 | Northern Ireland  | Second Header |
-| 〃 | 〃 | World  | Second Header |
-| 〃 | 〃 | Africa  | Second Header |
-| 〃 | 〃 | Asia  | Second Header |
-| 〃 | 〃 | Europe  | Second Header |
-| 〃 | 〃 | Latin America  | Second Header |
-| 〃 | 〃 | Middle East  | Second Header |
-| 〃 | 〃 | North America  | Second Header |
+| UK | [BBC](https://www.bbc.co.uk/) | Top Stories  | http://feeds.bbci.co.uk/news/rss.xml |
+| 〃 | 〃 | Business  | http://feeds.bbci.co.uk/news/business/rss.xml |
+| 〃 | 〃 | Politics  | http://feeds.bbci.co.uk/news/politics/rss.xml |
+| 〃 | 〃 | Health  | http://feeds.bbci.co.uk/news/health/rss.xml |
+| 〃 | 〃 | Education & Family  | http://feeds.bbci.co.uk/news/education/rss.xml |
+| 〃 | 〃 | Science & Enviroment  | http://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| 〃 | 〃 | Technology  | http://feeds.bbci.co.uk/news/technology/rss.xml |
+| 〃 | 〃 | UK  | http://feeds.bbci.co.uk/news/uk/rss.xml |
+| 〃 | 〃 | England  | http://feeds.bbci.co.uk/news/england/rss.xml |
+| 〃 | 〃 | Scotland  | http://feeds.bbci.co.uk/news/scotland/rss.xml |
+| 〃 | 〃 | Wales  | http://feeds.bbci.co.uk/news/wales/rss.xml |
+| 〃 | 〃 | Northern Ireland  | http://feeds.bbci.co.uk/news/northern_ireland/rss.xml |
+| 〃 | 〃 | World  | http://feeds.bbci.co.uk/news/world/rss.xml |
+| 〃 | 〃 | Africa  | http://feeds.bbci.co.uk/news/world/africa/rss.xml |
+| 〃 | 〃 | Asia  | http://feeds.bbci.co.uk/news/world/asia/rss.xml |
+| 〃 | 〃 | Europe  | http://feeds.bbci.co.uk/news/world/europe/rss.xml |
+| 〃 | 〃 | Latin America  | http://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
+| 〃 | 〃 | Middle East  | http://feeds.bbci.co.uk/news/world/middle_east/rss.xml |
+| 〃 | 〃 | North America  | http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
 
 ### United States of America (USA)
 | Country  | Provider  | Category | URL |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| USA | [The New York Times](https://www.nytimes.com/) | Top Stories  | Second Header |
-| 〃 | 〃 | World  | Second Header |
-| 〃 | 〃 | USA  | Second Header |
-| 〃 | 〃 | New York  | Second Header |
-| 〃 | 〃 | Business  | Second Header |
-| 〃 | 〃 | Technology  | Second Header |
-| 〃 | 〃 | Sports  | Second Header |
-| 〃 | 〃 | Science  | Second Header |
-| 〃 | 〃 | Health  | Second Header |
+| USA | [The New York Times](https://www.nytimes.com/) | Top Stories  | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml |
+| 〃 | 〃 | World  | https://rss.nytimes.com/services/xml/rss/nyt/World.xml |
+| 〃 | 〃 | Africa  | https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml |
+| 〃 | 〃 | USA (General)  | https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml |
+| 〃 | 〃 | USA (International)  | https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/international/section/us/rss.xml |
+| 〃 | 〃 | New York  | https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml |
+| 〃 | 〃 | Asia Pacific  | https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml |
+| 〃 | 〃 | Europe  | https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml |
+| 〃 | 〃 | Middle East  | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml |
+| 〃 | 〃 | Education  | https://rss.nytimes.com/services/xml/rss/nyt/Education.xml |
+| 〃 | 〃 | Politics the Upshot | https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml |
+| 〃 | 〃 | Business  | https://rss.nytimes.com/services/xml/rss/nyt/Business.xml |
+| 〃 | 〃 | Energy & Enviroment | https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml |
+| 〃 | 〃 | Small Business | https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml |
+| 〃 | 〃 | Economy  | https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml |
+| 〃 | 〃 | Deal Book | https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml |
+| 〃 | 〃 | Media & Adverts | https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml |
+| 〃 | 〃 | Your Money | https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml |
+| 〃 | 〃 | Technology  | https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml |
+| 〃 | 〃 | Personal Tech | https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml |
+| 〃 | 〃 | Sports  | https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml |
+| 〃 | 〃 | Science  | https://rss.nytimes.com/services/xml/rss/nyt/Science.xml |
+| 〃 | 〃 | Climate | https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml |
+| 〃 | 〃 | Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
+| 〃 | 〃 | Health  | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
+| 〃 | 〃 | Well Blog | https://rss.nytimes.com/services/xml/rss/nyt/Well.xml |
 |  |  |   |  |
-| USA | [CNN](https://www.cnn.com/) | Top Stories  | Second Header |
-| 〃 | 〃 | World  | Second Header |
-| 〃 | 〃 | USA  | Second Header |
-| 〃 | 〃 | Business  | Second Header |
-| 〃 | 〃 | Politics  | Second Header |
-| 〃 | 〃 | Tech  | Second Header |
-| 〃 | 〃 | Health  | Second Header |
-| 〃 | 〃 | Entertainment  | Second Header |
-| 〃 | 〃 | Travel  | Second Header |
-| 〃 | 〃 | Science  | Second Header |
-| 〃 | 〃 | Climate  | Second Header |
-| 〃 | 〃 | Markets  | Second Header |
+| USA | [CNN](https://www.cnn.com/) | Top Stories  | https://openrss.org/www.cnn.com |
+| 〃 | 〃 | World  | https://openrss.org/www.cnn.com/world |
+| 〃 | 〃 | USA  | https://openrss.org/www.cnn.com/us |
+| 〃 | 〃 | Business  | https://openrss.org/www.cnn.com/business |
+| 〃 | 〃 | Politics  | https://openrss.org/www.cnn.com/politics |
+| 〃 | 〃 | Tech  | https://openrss.org/www.cnn.com/business/tech |
+| 〃 | 〃 | Health  | https://openrss.org/www.cnn.com/health |
+| 〃 | 〃 | Entertainment  | https://openrss.org/www.cnn.com/entertainment |
+| 〃 | 〃 | Travel  | https://openrss.org/www.cnn.com/travel |
+| 〃 | 〃 | Science  | https://openrss.org/www.cnn.com/science |
+| 〃 | 〃 | Climate  | https://openrss.org/www.cnn.com/science |
 
 ### Other (English)
 | Country  | Provider  | Category | URL |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| N/A | [UploadVR](https://www.uploadvr.com/) | N/A  | Second Header |
+| N/A | [UploadVR](https://www.uploadvr.com/) | N/A  | https://www.uploadvr.com/rss/ |
 |  |  |   |  |
-| N/A | [CNET.com](https://www.cnet.com/) | N/A  | Second Header |
+| N/A | [CNET.com](https://www.cnet.com/) | N/A  | https://www.cnet.com/rss/news/ |
 
 ### Japan (JP)
 | Country  | Provider  | Category | URL |
