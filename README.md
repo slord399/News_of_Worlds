@@ -220,6 +220,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | Second Header |
 |  |  |   |  |
+| JP |  [CNET Japan](http://japan.cnet.com/) | N/A  | http://feed.japan.cnet.com/rss/index.rdf |
+|  |  |   |  |
 | JP | [ITmedia](https://www.itmedia.co.jp/) | N/A  | Second Header |
 |  |  |   |  |
 | JP | [日経xTECH](https://xtech.nikkei.com/) | N/A  | Second Header |
