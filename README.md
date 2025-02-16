@@ -36,7 +36,7 @@ Hope it help someone who is looking for info you need.
 - [Other (Japanese/日本語)](#other-japanese日本語)
 
 ### United Kingdom of Great Britain and Northern Ireland (UK)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | UK | [The Times](https://www.thetimes.com/)  | UK Politics  | https://openrss.org/www.thetimes.com/uk |
 | 〃 | 〃 | UK Healthcare  | https://openrss.org/www.thetimes.com/uk/healthcare |
@@ -100,7 +100,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | North America  | http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
 
 ### United States of America (USA)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | USA | [The New York Times](https://www.nytimes.com/) | Top Stories  | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml |
 | 〃 | 〃 | World  | https://rss.nytimes.com/services/xml/rss/nyt/World.xml |
@@ -142,14 +142,14 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Climate  | https://openrss.org/www.cnn.com/science |
 
 ### Other (English)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | N/A | [UploadVR](https://www.uploadvr.com/) | N/A  | https://www.uploadvr.com/rss/ |
 |  |  |   |  |
 | N/A | [CNET.com](https://www.cnet.com/) | N/A  | https://www.cnet.com/rss/news/ |
 
 ### Japan (JP)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | JP | [日本経済新聞](https://www.nikkei.com/) | 速報  | Second Header |
 | 〃 | 〃 | 政治・経済  | Second Header |
@@ -210,7 +210,7 @@ Hope it help someone who is looking for info you need.
 | JP | [PR Times](https://prtimes.jp/) | N/A  | Second Header |
 
 ### IT (Japanese/日本語)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | JP | [Gigazine Japan](https://gigazine.net/) | N/A  | Second Header |
 |  |  |   |  |
@@ -236,7 +236,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Manga Watch  | Second Header |
 
 ### Other (Japanese/日本語)
-| Country  | Provider  | Category | URL |
+| Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | JP | [アキバBlog](https://akibablog.blog.jp/) | N/A  | Second Header |
 |  |  |   |  |
