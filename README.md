@@ -20,9 +20,13 @@ Hope it help someone who is looking for info you need.
 
 
 ## Usage / 利用方法
-  A. Join off [discord](https://discord.gg/VmW5n2TWSr) / [discord](https://discord.gg/VmW5n2TWSr)へ参加する
-  B. Use URL on discord RSS Bot like [MonitoRSS](https://monitorss.xyz/) / URLを[MonitoRSS](https://monitorss.xyz/)などのdiscord Botで利用する
-  C. Self-host RSS workflow/bot yourself / 自前でRSSリーダー workflow/botを準備する
+ A. Join off [discord](https://discord.gg/VmW5n2TWSr) / [discord](https://discord.gg/VmW5n2TWSr)へ参加する  
+ B. Use URL on discord RSS Bot like [MonitoRSS](https://monitorss.xyz/) / URLを[MonitoRSS](https://monitorss.xyz/)などのdiscord Botで利用する  
+ C. Self-host RSS workflow/bot yourself / 自前でRSSリーダー workflow/botを準備する
+
+
+* discord channels may merged into fewer channel due to number of feeds posted.  
+* 一部のフィードは物量の関係上、discordにおいてチャンネルが統合されています。
 
 ## Feed Provider / ニュース提供者
 =News (General)=
