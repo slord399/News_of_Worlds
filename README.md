@@ -155,99 +155,99 @@ Hope it help someone who is looking for info you need.
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| JP | [日本経済新聞](https://www.nikkei.com/) | 速報  | Second Header |
-| 〃 | 〃 | 政治・経済  | Second Header |
-| 〃 | 〃 | ビジネス  | Second Header |
-| 〃 | 〃 | マーケット  | Second Header |
-| 〃 | 〃 | テクノロジー  | Second Header |
-| 〃 | 〃 | 国際  | Second Header |
-| 〃 | 〃 | 社会  | Second Header |
-| 〃 | 〃 | 地域  | Second Header |
+| JP | [日本経済新聞](https://www.nikkei.com/) | 速報  | https://assets.wor.jp/rss/rdf/nikkei/news.rdf |
+| 〃 | 〃 | 政治・経済  | https://assets.wor.jp/rss/rdf/nikkei/economy.rdf |
+| 〃 | 〃 | ビジネス  | https://assets.wor.jp/rss/rdf/nikkei/business.rdf |
+| 〃 | 〃 | マーケット  | https://assets.wor.jp/rss/rdf/nikkei/markets.rdf |
+| 〃 | 〃 | テクノロジー  | https://assets.wor.jp/rss/rdf/nikkei/technology.rdf |
+| 〃 | 〃 | 国際  | https://assets.wor.jp/rss/rdf/nikkei/international.rdf |
+| 〃 | 〃 | 社会  | https://assets.wor.jp/rss/rdf/nikkei/society.rdf |
+| 〃 | 〃 | 地域  | https://assets.wor.jp/rss/rdf/nikkei/local.rdf |
 |  |  |   |  |
-| JP | [47NEWS](https://www.47news.jp/) | 全国  | Second Header |
-| 〃 | 〃 | 地域  | Second Header |
+| JP | [47NEWS](https://www.47news.jp/) | 全国  | https://assets.wor.jp/rss/rdf/ynnews/news.rdf |
+| 〃 | 〃 | 地域  | https://assets.wor.jp/rss/rdf/ynlocalnews/news.rdf |
 |  |  |   |  |
-| JP | [ライブドアニュース](https://news.livedoor.com/) | 主要  | Second Header |
-| 〃 | 〃 | 日本  | Second Header |
-| 〃 | 〃 | 海外  | Second Header |
-| 〃 | 〃 | IT経済  | Second Header |
-| 〃 | 〃 | 芸能  | Second Header |
-| 〃 | 〃 | スポーツ  | Second Header |
-| 〃 | 〃 | 映画  | Second Header |
-| 〃 | 〃 | 女子  | Second Header |
-| 〃 | 〃 | トレンド  | Second Header |
+| JP | [ライブドアニュース](https://news.livedoor.com/) | 主要  | https://news.livedoor.com/topics/rss/top.xml |
+| 〃 | 〃 | 日本  | https://news.livedoor.com/topics/rss/dom.xml |
+| 〃 | 〃 | 海外  | https://news.livedoor.com/topics/rss/int.xml |
+| 〃 | 〃 | IT経済  | https://news.livedoor.com/topics/rss/eco.xml |
+| 〃 | 〃 | 芸能  | https://news.livedoor.com/topics/rss/ent.xml |
+| 〃 | 〃 | スポーツ  | https://news.livedoor.com/topics/rss/spo.xml |
+| 〃 | 〃 | 映画  | https://news.livedoor.com/rss/summary/52.xml |
+| 〃 | 〃 | 女子  | https://news.livedoor.com/topics/rss/love.xml |
+| 〃 | 〃 | トレンド  | https://news.livedoor.com/topics/rss/trend.xml |
 |  |  |   |  |
-| JP | [マイナビニュース](https://news.mynavi.jp/) | 総合  | Second Header |
-| 〃 | 〃 | 企業IT  | Second Header |
-| 〃 | 〃 | テクノロジー  | Second Header |
-| 〃 | 〃 | ホワイトペーパー  | Second Header |
-| 〃 | 〃 | パソコン  | Second Header |
-| 〃 | 〃 | モバイル  | Second Header |
-| 〃 | 〃 | 家電  | Second Header |
-| 〃 | 〃 | Premium  | Second Header |
-| 〃 | 〃 | ワーク & ライフ  | Second Header |
-| 〃 | 〃 | ガジェット  | Second Header |
-| 〃 | 〃 | 就職応援  | Second Header |
-| 〃 | 〃 | エンタメ  | Second Header |
-| 〃 | 〃 | ホビー  | Second Header |
-| 〃 | 〃 | 地域活性  | Second Header |
-| 〃 | 〃 | IIJ  | Second Header |
+| JP | [マイナビニュース](https://news.mynavi.jp/) | 総合  | https://news.mynavi.jp/rss/index |
+| 〃 | 〃 | 企業IT  | https://news.mynavi.jp/rss/techplus/enterprise |
+| 〃 | 〃 | テクノロジー  | https://news.mynavi.jp/rss/techplus/technology |
+| 〃 | 〃 | ホワイトペーパー  | https://news.mynavi.jp/rss/techplus/whitepaper |
+| 〃 | 〃 | パソコン  | https://news.mynavi.jp/rss/digital/pc |
+| 〃 | 〃 | モバイル  | https://news.mynavi.jp/rss/digital/mobile |
+| 〃 | 〃 | 家電  | https://news.mynavi.jp/rss/digital/kaden |
+| 〃 | 〃 | Premium  | https://news.mynavi.jp/rss/premium/premium |
+| 〃 | 〃 | ワーク & ライフ  | https://news.mynavi.jp/rss/kurashi/life |
+| 〃 | 〃 | ガジェット  | https://news.mynavi.jp/rss/digital/gadget |
+| 〃 | 〃 | 就職応援  | https://news.mynavi.jp/rss/kurashi/jobhunting |
+| 〃 | 〃 | エンタメ  | https://news.mynavi.jp/rss/entertainment/entertainment |
+| 〃 | 〃 | ホビー  | https://news.mynavi.jp/rss/entertainment/hobby |
+| 〃 | 〃 | 地域活性  | https://news.mynavi.jp/rss/kurashi/local_ict |
+| 〃 | 〃 | IIJ  | https://news.mynavi.jp/rss/digital/iij |
 |  |  |   |  |
-| JP | [NHK](https://www.nhk.or.jp/) | 主要  | Second Header |
-| 〃 | 〃 | 社会  | Second Header |
-| 〃 | 〃 | 科学・医療  | Second Header |
-| 〃 | 〃 | 政治  | Second Header |
-| 〃 | 〃 | 経済  | Second Header |
-| 〃 | 〃 | 国際  | Second Header |
-| 〃 | 〃 | スポーツ  | Second Header |
-| 〃 | 〃 | 文化・エンタメ  | Second Header |
-| 〃 | 〃 | Liveニュース  | Second Header |
+| JP | [NHK](https://www.nhk.or.jp/) | 主要  | https://www.nhk.or.jp/rss/news/cat0.xml |
+| 〃 | 〃 | 社会  | https://www.nhk.or.jp/rss/news/cat1.xml |
+| 〃 | 〃 | 科学・医療  | https://www.nhk.or.jp/rss/news/cat3.xml |
+| 〃 | 〃 | 政治  | https://www.nhk.or.jp/rss/news/cat4.xml |
+| 〃 | 〃 | 経済  | https://www.nhk.or.jp/rss/news/cat5.xml |
+| 〃 | 〃 | 国際  | https://www.nhk.or.jp/rss/news/cat6.xml |
+| 〃 | 〃 | スポーツ  | https://www.nhk.or.jp/rss/news/cat7.xml |
+| 〃 | 〃 | 文化・エンタメ  | https://www.nhk.or.jp/rss/news/cat2.xml |
+| 〃 | 〃 | Liveニュース  | https://www.nhk.or.jp/rss/news/cat-live.xml |
 |  |  |   |  |
-| JP | [ロイター通信](https://x.com/ReutersJapan)) | N/A  | Second Header |
+| JP | [ロイター通信](https://x.com/ReutersJapan)) | N/A  | IFTTT (X: ReutersJapan / ReutersJpTech / ReutersJpBiz) |
 |  |  |   |  |
-| JP | [FNN](https://www.itmedia.co.jp/) | N/A  | Second Header |
+| JP | [FNN](https://www.itmedia.co.jp/) | N/A  | https://www.fnn.jp/list/feed/rss |
 |  |  |   |  |
-| JP | [時事ドットコム](https://www.jiji.com/) | N/A  | Second Header |
+| JP | [時事ドットコム](https://www.jiji.com/) | N/A  | http://www.jiji.com/rss/ranking.rdf |
 |  |  |   |  |
-| JP | [NNN24](https://news.ntv.co.jp/) | N/A  | Second Header |
+| JP | [NNN24](https://news.ntv.co.jp/) | N/A  | https://news.ntv.co.jp/rss/index.rdf |
 |  |  |   |  |
-| JP | [PR Times](https://prtimes.jp/) | N/A  | Second Header |
+| JP | [PR Times](https://prtimes.jp/) | N/A  | https://prtimes.jp/index.rdf |
 
 ### IT (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| JP | [Gigazine Japan](https://gigazine.net/) | N/A  | Second Header |
+| JP | [Gigazine Japan](https://gigazine.net/) | N/A  | https://gigazine.net/news/rss_2.0/ |
 |  |  |   |  |
-| JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | Second Header |
+| JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | http://feed.japan.zdnet.com/rss/index.rdf |
 |  |  |   |  |
 | JP |  [CNET Japan](http://japan.cnet.com/) | N/A  | http://feed.japan.cnet.com/rss/index.rdf |
 |  |  |   |  |
-| JP | [ITmedia](https://www.itmedia.co.jp/) | N/A  | Second Header |
+| JP | [ITmedia](https://www.itmedia.co.jp/) | N/A  | https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml |
 |  |  |   |  |
-| JP | [日経xTECH](https://xtech.nikkei.com/) | N/A  | Second Header |
+| JP | [日経xTECH](https://xtech.nikkei.com/) | N/A  | https://xtech.nikkei.com/rss/index.rdf |
 |  |  |   |  |
-| JP | [Impress Watch](https://www.impress.co.jp/) | Headline  | Second Header |
-| 〃 | 〃 | Internet Watch  | Second Header |
-| 〃 | 〃 | PC Watch  | Second Header |
-| 〃 | 〃 | デジカメ Watch  | Second Header |
-| 〃 | 〃 | Akiba PC Hotline  | Second Header |
-| 〃 | 〃 | AV Watch  | Second Header |
-| 〃 | 〃 | 家電 Watch  | Second Header |
-| 〃 | 〃 | ケータイ Watch  | Second Header |
-| 〃 | 〃 | クラウド Watch  | Second Header |
-| 〃 | 〃 | 窓の社 Watch  | Second Header |
-| 〃 | 〃 | こどもとIT Watch  | Second Header |
-| 〃 | 〃 | トラベル Watch  | Second Header |
-| 〃 | 〃 | グルメ Watch  | Second Header |
-| 〃 | 〃 | Manga Watch  | Second Header |
+| JP | [Impress Watch](https://www.impress.co.jp/) | Headline  | https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf |
+| 〃 | 〃 | Internet Watch  | https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf |
+| 〃 | 〃 | PC Watch  | https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf |
+| 〃 | 〃 | デジカメ Watch  | https://dc.watch.impress.co.jp/data/rss/1.0/dcw/feed.rdf |
+| 〃 | 〃 | Akiba PC Hotline  | https://akiba-pc.watch.impress.co.jp/data/rss/1.0/ah/feed.rdf |
+| 〃 | 〃 | AV Watch  | https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf |
+| 〃 | 〃 | 家電 Watch  | https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf |
+| 〃 | 〃 | ケータイ Watch  | https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf |
+| 〃 | 〃 | クラウド Watch  | https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf |
+| 〃 | 〃 | 窓の社 Watch  | https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf |
+| 〃 | 〃 | こどもとIT Watch  | https://edu.watch.impress.co.jp/data/rss/1.0/kit/feed.rdf |
+| 〃 | 〃 | トラベル Watch  | http://travel.watch.impress.co.jp/docs/travel.rdf |
+| 〃 | 〃 | グルメ Watch  | https://gourmet.watch.impress.co.jp/data/rss/1.0/grw/feed.rdf |
+| 〃 | 〃 | Manga Watch  | https://manga.watch.impress.co.jp/data/rss/1.0/mgw/feed.rdf |
 
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| JP | [アキバBlog](https://akibablog.blog.jp/) | N/A  | Second Header |
+| JP | [アキバBlog](https://akibablog.blog.jp/) | N/A  | https://akibablog.blog.jp/index.rdf |
 |  |  |   |  |
-| JP | [バーチャルライフマガジン](https://vr-lifemagazine.com/) | N/A  | Second Header |
+| JP | [バーチャルライフマガジン](https://vr-lifemagazine.com/) | N/A  | https://vr-lifemagazine.com/feed/ |
 |  |  |   |  |
-| JP | [メタカル最前線](https://metacul-frontier.com/) | N/A  | Second Header |
+| JP | [メタカル最前線](https://metacul-frontier.com/) | N/A  | https://metacul-frontier.com/?feed=rss2 |
 |  |  |   |  |
-| JP | [ぶいなび](https://vrnavi.jp/) | N/A  | Second Header |
+| JP | [ぶいなび](https://vrnavi.jp/) | N/A  | https://vrnavi.jp/feed/ |
