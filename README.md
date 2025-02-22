@@ -151,6 +151,8 @@ Hope it help someone who is looking for info you need.
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | N/A | [UploadVR](https://www.uploadvr.com/) | N/A  | https://www.uploadvr.com/rss/ |
 |  |  |   |  |
+| N/A | [The Verge](https://www.theverge.com/) | N/A  | https://www.theverge.com/rss/index.xml |
+|  |  |   |  |
 | N/A | [CNET.com](https://www.cnet.com/) | N/A  | https://www.cnet.com/rss/news/ |
 
 ### Japan (JP)
