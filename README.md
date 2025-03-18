@@ -106,17 +106,8 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Health  | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
 | 〃 | 〃 | Well Blog | https://rss.nytimes.com/services/xml/rss/nyt/Well.xml |
 |  |  |   |  |
-| USA | [CNN](https://www.cnn.com/) | Top Stories  | https://openrss.org/www.cnn.com |
-| 〃 | 〃 | World  | https://openrss.org/www.cnn.com/world |
-| 〃 | 〃 | USA  | https://openrss.org/www.cnn.com/us |
-| 〃 | 〃 | Business  | https://openrss.org/www.cnn.com/business |
-| 〃 | 〃 | Politics  | https://openrss.org/www.cnn.com/politics |
-| 〃 | 〃 | Tech  | https://openrss.org/www.cnn.com/business/tech |
-| 〃 | 〃 | Health  | https://openrss.org/www.cnn.com/health |
-| 〃 | 〃 | Entertainment  | https://openrss.org/www.cnn.com/entertainment |
-| 〃 | 〃 | Travel  | https://openrss.org/www.cnn.com/travel |
-| 〃 | 〃 | Science  | https://openrss.org/www.cnn.com/science |
-| 〃 | 〃 | Climate  | https://openrss.org/www.cnn.com/science |
+| USA | [CNN](https://www.cnn.com/) | Top Stories  | X to IFTTT:[CNN](https://x.com/CNN) |
+
 
 ### Other (English)
 | Country  | Provider  | Category | Feed URLs |
