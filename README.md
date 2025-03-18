@@ -43,35 +43,7 @@ Hope it help someone who is looking for info you need.
 ### United Kingdom of Great Britain and Northern Ireland (UK)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| UK | [The Times](https://www.thetimes.com/)  | UK Politics  | https://openrss.org/www.thetimes.com/uk |
-| 〃 | 〃 | UK Healthcare  | https://openrss.org/www.thetimes.com/uk/healthcare |
-| 〃 | 〃 | UK Education  | https://openrss.org/www.thetimes.com/uk/education |
-| 〃 | 〃 | UK Crime  | https://openrss.org/www.thetimes.com/uk/crime |
-| 〃 | 〃 | UK Defence  | https://openrss.org/www.thetimes.com/uk/defence |
-| 〃 | 〃 | UK Scotland  | https://openrss.org/www.thetimes.com/uk/scotland |
-| 〃 | 〃 | UK Enviroment  | https://openrss.org/www.thetimes.com/uk/environment |
-| 〃 | 〃 | UK Obituaries  | https://openrss.org/www.thetimes.com/uk/obituaries |
-| 〃 | 〃 | UK Royal Family  | https://openrss.org/www.thetimes.com/uk/royal-family |
-| 〃 | 〃 | UK Science  | https://openrss.org/www.thetimes.com/uk/science |
-| 〃 | 〃 | UK Law  | https://openrss.org/www.thetimes.com/uk/law |
-| 〃 | 〃 | UK Investigations  | https://openrss.org/www.thetimes.com/uk/investigations |
-| 〃 | 〃 | Ireland  | https://openrss.org/www.thetimes.com/world/ireland |
-| 〃 | 〃 | Europe  | https://openrss.org/www.thetimes.com/world/europe |
-| 〃 | 〃 | USA  | https://openrss.org/www.thetimes.com/world/us |
-| 〃 | 〃 | Asia  | https://openrss.org/www.thetimes.com/world/asia |
-| 〃 | 〃 | Latin America  | https://openrss.org/www.thetimes.com/world/latin-america |
-| 〃 | 〃 | Middle East  | https://openrss.org/www.thetimes.com/world/middle-east |
-| 〃 | 〃 | Africa  | https://openrss.org/www.thetimes.com/world/africa |
-| 〃 | 〃 | Australasia  | https://openrss.org/www.thetimes.com/world/australasia |
-| 〃 | 〃 | Russia & Ukraine War  | https://openrss.org/www.thetimes.com/world/russia-ukraine-war |
-| 〃 | 〃 | Israel Hamas War  | https://openrss.org/www.thetimes.com/world/israel-hamas-war |
-| 〃 | 〃 | Money  | https://openrss.org/www.thetimes.com/business-money/money |
-| 〃 | 〃 | Economics  | https://openrss.org/www.thetimes.com/business-money/economics |
-| 〃 | 〃 | Market & Tempus  | https://openrss.org/www.thetimes.com/business-money/markets-tempus |
-| 〃 | 〃 | Technology  | https://openrss.org/www.thetimes.com/business-money/technology |
-| 〃 | 〃 | Companies  | https://openrss.org/www.thetimes.com/business-money/companies |
-| 〃 | 〃 | Energy  | https://openrss.org/www.thetimes.com/business-money/energy |
-| 〃 | 〃 | Entrepreneurs  | https://openrss.org/www.thetimes.com/business-money/entrepreneurs |
+| UK | [The Times](https://www.thetimes.com/)  | Headlines  | IFTTT (X: thetimes) |
 |  |  |   |  |
 | UK | [Financial Times](https://www.ft.com/) | UK Headline  | https://www.ft.com/rss/home/uk |
 | 〃 | 〃 | International Headline  | http://www.ft.com/rss/home |
