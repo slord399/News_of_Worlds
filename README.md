@@ -117,6 +117,8 @@ Hope it help someone who is looking for info you need.
 | N/A | [The Verge](https://www.theverge.com/) | N/A  | https://www.theverge.com/rss/index.xml |
 |  |  |   |  |
 | N/A | [CNET.com](https://www.cnet.com/) | N/A  | https://www.cnet.com/rss/news/ |
+|  |  |   |  |
+| N/A | [Tom's Hardware](https://www.tomshardware.com/) | N/A  | https://www.tomshardware.com/feeds.xml |
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
