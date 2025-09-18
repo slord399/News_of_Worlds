@@ -119,6 +119,9 @@ Hope it help someone who is looking for info you need.
 | N/A | [CNET.com](https://www.cnet.com/) | N/A  | https://www.cnet.com/rss/news/ |
 |  |  |   |  |
 | N/A | [Tom's Hardware](https://www.tomshardware.com/) | N/A  | https://www.tomshardware.com/feeds.xml |
+|  |  |   |  |
+| N/A | [TechPowerUp (News)](https://www.techpowerup.com/) | N/A  | https://www.techpowerup.com/rss/news |
+| N/A | [TechPowerUp (Review)](https://www.techpowerup.com/) | N/A  | https://www.techpowerup.com/rss/reviews |
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
