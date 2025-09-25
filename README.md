@@ -122,6 +122,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | N/A | [TechPowerUp (News)](https://www.techpowerup.com/) | N/A  | https://www.techpowerup.com/rss/news |
 | N/A | [TechPowerUp (Review)](https://www.techpowerup.com/) | N/A  | https://www.techpowerup.com/rss/reviews |
+|  |  |   |  |
+| N/A | [Bleeping Computer](https://www.bleepingcomputer.com/) | N/A  | https://www.bleepingcomputer.com/feed/ |
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
