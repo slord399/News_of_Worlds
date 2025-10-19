@@ -226,3 +226,5 @@ Hope it help someone who is looking for info you need.
 | JP | [メタカル最前線](https://metacul-frontier.com/) | N/A  | https://metacul-frontier.com/?feed=rss2 |
 |  |  |   |  |
 | JP | [ぶいなび](https://vrnavi.jp/) | N/A  | https://vrnavi.jp/feed/ |
+|  |  |   |  |
+| JP | [Mogura VR](https://www.moguravr.com/) | N/A  | https://www.moguravr.com/feed/atom/ |
