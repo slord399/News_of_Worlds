@@ -201,6 +201,15 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ニッチなPCゲーマーの環境構築Z](https://www.nichepcgamer.com/) | N/A  | https://www.nichepcgamer.com/feed |
 |  |  |   |  |
+| JP | [ASCII.jp](https://ascii.jp/) | メイン  | https://ascii.jp/rss.xml |
+| 〃 | 〃 | ビジネス  | https://ascii.jp/biz/rss.xml |
+| 〃 | 〃 | TECH  | https://ascii.jp/tech/rss.xml |
+| 〃 | 〃 | Web Professional  | https://ascii.jp/web/rss.xml |
+| 〃 | 〃 | デジタル  | https://ascii.jp/digital/rss.xml |
+| 〃 | 〃 | iPhone/Mac  | https://ascii.jp/mac/rss.xml |
+| 〃 | 〃 | ゲーム・ホビー  | https://ascii.jp/hobby/rss.xml |
+| 〃 | 〃 | 自作PC  | https://ascii.jp/pc/rss.xml |
+|  |  |   |  |
 | JP | [Impress Watch](https://www.impress.co.jp/) | Headline  | https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf |
 | 〃 | 〃 | Internet Watch  | https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf |
 | 〃 | 〃 | PC Watch  | https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf |
