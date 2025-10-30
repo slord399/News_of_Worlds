@@ -124,6 +124,10 @@ Hope it help someone who is looking for info you need.
 | N/A | [TechPowerUp (Review)](https://www.techpowerup.com/) | N/A  | https://www.techpowerup.com/rss/reviews |
 |  |  |   |  |
 | N/A | [Bleeping Computer](https://www.bleepingcomputer.com/) | N/A  | https://www.bleepingcomputer.com/feed/ |
+|  |  |   |  |
+| N/A | [Windows Latest](https://www.windowslatest.com/) | N/A  | https://www.windowslatest.com/feed/ |
+|  |  |   |  |
+| N/A | [Windows Central](https://www.windowscentral.com/) | N/A  | https://www.windowscentral.com/feeds.xml |
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
