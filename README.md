@@ -205,6 +205,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ニッチなPCゲーマーの環境構築Z](https://www.nichepcgamer.com/) | N/A  | https://www.nichepcgamer.com/feed |
 |  |  |   |  |
+| JP | [電ファミニコゲーマー](https://news.denfaminicogamer.jp/) | N/A  | https://news.denfaminicogamer.jp/feed |
+|  |  |   |  |
 | JP | [ASCII.jp](https://ascii.jp/) | メイン  | https://ascii.jp/rss.xml |
 | 〃 | 〃 | ビジネス  | https://ascii.jp/biz/rss.xml |
 | 〃 | 〃 | TECH  | https://ascii.jp/tech/rss.xml |
