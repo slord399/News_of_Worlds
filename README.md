@@ -77,12 +77,12 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | North America  | http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
 |  |  |   |  |
 | UK | [techradar UK](https://www.techradar.com/uk) | Articles  | https://www.techradar.com/uk/feeds.xml |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | News  | https://www.techradar.com/uk/feeds/articletype/news |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | Reviews  | https://www.techradar.com/uk/feeds/articletype/review |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | Buying Guide  | https://www.techradar.com/uk/feeds/articletype/best |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | Deals  | https://www.techradar.com/uk/feeds/articletype/deals |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | Feature  | https://www.techradar.com/uk/feeds/articletype/feature |
-| 〃 | [techradar UK](https://www.techradar.com/uk) | Opinion  | https://www.techradar.com/uk/feeds/articletype/opinion |
+| 〃 | 〃 | News  | https://www.techradar.com/uk/feeds/articletype/news |
+| 〃 | 〃 | Reviews  | https://www.techradar.com/uk/feeds/articletype/review |
+| 〃 | 〃 | Buying Guide  | https://www.techradar.com/uk/feeds/articletype/best |
+| 〃 | 〃 | Deals  | https://www.techradar.com/uk/feeds/articletype/deals |
+| 〃 | 〃 | Feature  | https://www.techradar.com/uk/feeds/articletype/feature |
+| 〃 | 〃 | Opinion  | https://www.techradar.com/uk/feeds/articletype/opinion |
 
 
 ### United States of America (USA)
@@ -118,12 +118,12 @@ Hope it help someone who is looking for info you need.
 | USA | [CNN](https://www.cnn.com/) | Top Stories  | X to IFTTT:[CNN](https://x.com/CNN) |
 |  |  |   |  |
 | USA | [techradar](https://www.techradar.com/) | Articles  | https://www.techradar.com/feeds.xml |
-| 〃 | [techradar](https://www.techradar.com/) | News  | https://www.techradar.com/feeds/articletype/news |
-| 〃 | [techradar](https://www.techradar.com/) | Reviews  | https://www.techradar.com/feeds/articletype/review |
-| 〃 | [techradar](https://www.techradar.com/) | Buying Guide  | https://www.techradar.com/feeds/articletype/best |
-| 〃 | [techradar](https://www.techradar.com/) | Deals  | https://www.techradar.com/feeds/articletype/deals |
-| 〃 | [techradar](https://www.techradar.com/) | Feature  | https://www.techradar.com/feeds/articletype/feature |
-| 〃 | [techradar](https://www.techradar.com/) | Opinion  | https://www.techradar.com/feeds/articletype/opinion |
+| 〃 | 〃 | News  | https://www.techradar.com/feeds/articletype/news |
+| 〃 | 〃 | Reviews  | https://www.techradar.com/feeds/articletype/review |
+| 〃 | 〃 | Buying Guide  | https://www.techradar.com/feeds/articletype/best |
+| 〃 | 〃 | Deals  | https://www.techradar.com/feeds/articletype/deals |
+| 〃 | 〃 | Feature  | https://www.techradar.com/feeds/articletype/feature |
+| 〃 | 〃 | Opinion  | https://www.techradar.com/feeds/articletype/opinion |
 
 
 ### Other (English)
