@@ -128,6 +128,15 @@ Hope it help someone who is looking for info you need.
 | N/A | [Windows Latest](https://www.windowslatest.com/) | N/A  | https://www.windowslatest.com/feed/ |
 |  |  |   |  |
 | N/A | [Windows Central](https://www.windowscentral.com/) | N/A  | https://www.windowscentral.com/feeds.xml |
+|  |  |   |  |
+| UK | [techradar UK](https://www.techradar.com/uk) | Articles  | https://www.techradar.com/uk/feeds.xml |
+| UK | [techradar UK](https://www.techradar.com/uk) | News  | https://www.techradar.com/uk/feeds/articletype/news |
+| UK | [techradar UK](https://www.techradar.com/uk) | Reviews  | https://www.techradar.com/uk/feeds/articletype/review |
+| UK | [techradar UK](https://www.techradar.com/uk) | Buying Guide  | https://www.techradar.com/uk/feeds/articletype/best |
+| UK | [techradar UK](https://www.techradar.com/uk) | Deals  | https://www.techradar.com/uk/feeds/articletype/deals |
+| UK | [techradar UK](https://www.techradar.com/uk) | Feature  | https://www.techradar.com/uk/feeds/articletype/feature |
+| UK | [techradar UK](https://www.techradar.com/uk) | Opinion  | https://www.techradar.com/uk/feeds/articletype/opinion |
+
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
