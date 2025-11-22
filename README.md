@@ -145,7 +145,8 @@ Hope it help someone who is looking for info you need.
 | N/A | [Windows Latest](https://www.windowslatest.com/) | N/A  | https://www.windowslatest.com/feed/ |
 |  |  |   |  |
 | N/A | [Windows Central](https://www.windowscentral.com/) | N/A  | https://www.windowscentral.com/feeds.xml |
-
+|  |  |   |  |
+| N/A | [wccftech](https://wccftech.com/)) | N/A  | IFTTT (X: wccftech) |
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
