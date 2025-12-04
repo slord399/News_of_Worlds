@@ -147,6 +147,9 @@ Hope it help someone who is looking for info you need.
 | N/A | [Windows Central](https://www.windowscentral.com/) | N/A  | https://www.windowscentral.com/feeds.xml |
 |  |  |   |  |
 | N/A | [wccftech](https://wccftech.com/) | N/A  | IFTTT (X: wccftech) |
+|  |  |   |  |
+| N/A | [GameIndustory.biz](https://www.gamesindustry.biz/) | N/A  | https://www.gamesindustry.biz/feed |
+
 
 ### Japan (JP)
 | Country  | Provider  | Category | Feed URLs |
