@@ -149,6 +149,10 @@ Hope it help someone who is looking for info you need.
 | N/A | [wccftech](https://wccftech.com/) | N/A  | IFTTT (X: wccftech) |
 |  |  |   |  |
 | N/A | [GameIndustory.biz](https://www.gamesindustry.biz/) | N/A  | https://www.gamesindustry.biz/feed |
+|  |  |   |  |
+| N/A | [engadget](https://www.engadget.com/) | N/A  | https://www.engadget.com/rss.xml |
+|  |  |   |  |
+| N/A | [Business Insider](https://www.businessinsider.com/) | N/A  | https://feeds.businessinsider.com/custom/all |
 
 
 ### Japan (JP)
