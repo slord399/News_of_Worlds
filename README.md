@@ -153,6 +153,8 @@ Hope it help someone who is looking for info you need.
 | N/A | [engadget](https://www.engadget.com/) | N/A  | https://www.engadget.com/rss.xml |
 |  |  |   |  |
 | N/A | [Business Insider](https://www.businessinsider.com/) | N/A  | https://feeds.businessinsider.com/custom/all |
+|  |  |   |  |
+| N/A | [TechCrunch](https://techcrunch.com/) | N/A  | https://techcrunch.com/feed/ |
 
 
 ### Japan (JP)
