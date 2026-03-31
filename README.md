@@ -235,6 +235,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [電ファミニコゲーマー](https://news.denfaminicogamer.jp/) | N/A  | https://news.denfaminicogamer.jp/feed |
 |  |  |   |  |
+| JP | [ファミ通.com](https://x.com/famitsu)) | N/A  | IFTTT (X: famitsu) |
+|  |  |   |  |
 | JP | [ASCII.jp](https://ascii.jp/) | メイン  | https://ascii.jp/rss.xml |
 | 〃 | 〃 | ビジネス  | https://ascii.jp/biz/rss.xml |
 | 〃 | 〃 | TECH  | https://ascii.jp/tech/rss.xml |
