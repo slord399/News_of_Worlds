@@ -264,6 +264,8 @@ Hope it help someone who is looking for info you need.
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
+| JP | [Business Insider (JP)](https://www.businessinsider.jp/) | N/A  | https://www.businessinsider.jp/feed/index.xml |
+|  |  |   |  |
 | JP | [アキバBlog](https://akibablog.blog.jp/) | N/A  | https://akibablog.blog.jp/index.rdf |
 |  |  |   |  |
 | JP | [バーチャルライフマガジン](https://vr-lifemagazine.com/) | N/A  | https://vr-lifemagazine.com/feed/ |
