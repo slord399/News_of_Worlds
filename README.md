@@ -237,6 +237,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ファミ通.com](https://x.com/famitsu)) | N/A  | IFTTT (X: famitsu) |
 |  |  |   |  |
+| JP | [CodeZine](https://codezine.jp/)) | N/A  | https://codezine.jp/rss/new/index.xml |
+|  |  |   |  |
 | JP | [ASCII.jp](https://ascii.jp/) | メイン  | https://ascii.jp/rss.xml |
 | 〃 | 〃 | ビジネス  | https://ascii.jp/biz/rss.xml |
 | 〃 | 〃 | TECH  | https://ascii.jp/tech/rss.xml |
