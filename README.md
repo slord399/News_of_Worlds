@@ -262,6 +262,22 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | トラベル Watch  | http://travel.watch.impress.co.jp/docs/travel.rdf |
 | 〃 | 〃 | グルメ Watch  | https://gourmet.watch.impress.co.jp/data/rss/1.0/grw/feed.rdf |
 | 〃 | 〃 | Manga Watch  | https://manga.watch.impress.co.jp/data/rss/1.0/mgw/feed.rdf |
+|  |  |   |  |
+| JP | [TechFeed](https://techfeed.io/) | Headline  | https://techfeed.io/feeds/categories/all |
+| 〃 | 〃 | Design  | https://techfeed.io/feeds/categories/Design |
+| 〃 | 〃 | Web Frontend  | https://techfeed.io/feeds/categories/Web%20%2F%20Frontend |
+| 〃 | 〃 | Mobile  | https://techfeed.io/feeds/categories/Mobile |
+| 〃 | 〃 | Cloud Backend  | https://techfeed.io/feeds/categories/Cloud%20%2F%20Backend |
+| 〃 | 〃 | Security  | https://techfeed.io/feeds/categories/Network%20%2F%20Security |
+| 〃 | 〃 | Programming  | https://techfeed.io/feeds/categories/Programming |
+| 〃 | 〃 | Marketing  | https://techfeed.io/feeds/categories/Marketing |
+| 〃 | 〃 | IoT Gadget  | https://techfeed.io/feeds/categories/IoT%20%2F%20Gadget |
+| 〃 | 〃 | AI BigData  | https://techfeed.io/feeds/categories/AI%20%2F%20BigData |
+| 〃 | 〃 | VR/AR  | https://techfeed.io/feeds/categories/VR%20%2F%20AR |
+| 〃 | 〃 | Fintech  | https://techfeed.io/feeds/categories/Fintech |
+| 〃 | 〃 | Startup/Innovation  | https://techfeed.io/feeds/categories/Startup%20%2F%20Innovation |
+| 〃 | 〃 | DevOps/Agile  | https://techfeed.io/feeds/categories/DevOps%20%2F%20Agile |
+| 〃 | 〃 | Other  | https://techfeed.io/feeds/categories/Other |
 
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
