@@ -36,6 +36,7 @@ Hope it help someone who is looking for info you need.
 - [Japan (JP)](#japan-jp)
 
 =Other=
+- [IT (English)](#it-english)
 - [Other (English)](#other-english)
 - [IT (Japanese/日本語)](#it-japanese日本語)
 - [Other (Japanese/日本語)](#other-japanese日本語)
@@ -126,7 +127,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Opinion  | https://www.techradar.com/feeds/articletype/opinion |
 
 
-### Other (English)
+### IT (English)
 | Country  | Provider  | Category | Feed URLs |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | N/A | [UploadVR](https://www.uploadvr.com/) | N/A  | https://www.uploadvr.com/rss/ |
@@ -155,6 +156,12 @@ Hope it help someone who is looking for info you need.
 | N/A | [Business Insider](https://www.businessinsider.com/) | N/A  | https://feeds.businessinsider.com/custom/all |
 |  |  |   |  |
 | N/A | [TechCrunch](https://techcrunch.com/) | N/A  | https://techcrunch.com/feed/ |
+
+
+### Other (English)
+| Country  | Provider  | Category | Feed URLs |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| UK | [Retail Times](https://retailtimes.co.uk/) | N/A  | https://retailtimes.co.uk/feed/ |
 
 
 ### Japan (JP)
