@@ -156,6 +156,8 @@ Hope it help someone who is looking for info you need.
 | N/A | [Business Insider](https://www.businessinsider.com/) | N/A  | https://feeds.businessinsider.com/custom/all |
 |  |  |   |  |
 | N/A | [TechCrunch](https://techcrunch.com/) | N/A  | https://techcrunch.com/feed/ |
+|  |  |   |  |
+| N/A | [XDA Developers](https://www.xda-developers.com/) | N/A  | https://www.xda-developers.com/feed/ |
 
 
 ### Other (English)
