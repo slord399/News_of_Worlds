@@ -57,7 +57,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | LEX  | https://www.ft.com/rss/lex |
 | 〃 | 〃 | Opinion  | https://www.ft.com/rss/opinion |
 |  |  |   |  |
-| UK | [BBC](https://www.bbc.co.uk/) | Top Stories  | http://feeds.bbci.co.uk/news/rss.xml |
+| UK | [BBC](https://www.bbc.co.uk/) | Top Stories  | https://feeds.bbci.co.uk/news/rss.xml |
 | 〃 | 〃 | Business  | https://feeds.bbci.co.uk/news/business/rss.xml |
 | 〃 | 〃 | Politics  | https://feeds.bbci.co.uk/news/politics/rss.xml |
 | 〃 | 〃 | Health  | https://feeds.bbci.co.uk/news/health/rss.xml |
@@ -67,7 +67,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | UK  | https://feeds.bbci.co.uk/news/uk/rss.xml |
 | 〃 | 〃 | England  | https://feeds.bbci.co.uk/news/england/rss.xml |
 | 〃 | 〃 | Scotland  | https://feeds.bbci.co.uk/news/scotland/rss.xml |
-| 〃 | 〃 | Wales  | httsp://feeds.bbci.co.uk/news/wales/rss.xml |
+| 〃 | 〃 | Wales  | https://feeds.bbci.co.uk/news/wales/rss.xml |
 | 〃 | 〃 | Northern Ireland  | https://feeds.bbci.co.uk/news/northern_ireland/rss.xml |
 | 〃 | 〃 | World  | https://feeds.bbci.co.uk/news/world/rss.xml |
 | 〃 | 〃 | Africa  | https://feeds.bbci.co.uk/news/world/africa/rss.xml |
