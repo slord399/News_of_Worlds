@@ -58,24 +58,24 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Opinion  | https://www.ft.com/rss/opinion |
 |  |  |   |  |
 | UK | [BBC](https://www.bbc.co.uk/) | Top Stories  | http://feeds.bbci.co.uk/news/rss.xml |
-| 〃 | 〃 | Business  | http://feeds.bbci.co.uk/news/business/rss.xml |
-| 〃 | 〃 | Politics  | http://feeds.bbci.co.uk/news/politics/rss.xml |
-| 〃 | 〃 | Health  | http://feeds.bbci.co.uk/news/health/rss.xml |
-| 〃 | 〃 | Education & Family  | http://feeds.bbci.co.uk/news/education/rss.xml |
-| 〃 | 〃 | Science & Enviroment  | http://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| 〃 | 〃 | Technology  | http://feeds.bbci.co.uk/news/technology/rss.xml |
-| 〃 | 〃 | UK  | http://feeds.bbci.co.uk/news/uk/rss.xml |
-| 〃 | 〃 | England  | http://feeds.bbci.co.uk/news/england/rss.xml |
-| 〃 | 〃 | Scotland  | http://feeds.bbci.co.uk/news/scotland/rss.xml |
-| 〃 | 〃 | Wales  | http://feeds.bbci.co.uk/news/wales/rss.xml |
-| 〃 | 〃 | Northern Ireland  | http://feeds.bbci.co.uk/news/northern_ireland/rss.xml |
-| 〃 | 〃 | World  | http://feeds.bbci.co.uk/news/world/rss.xml |
-| 〃 | 〃 | Africa  | http://feeds.bbci.co.uk/news/world/africa/rss.xml |
-| 〃 | 〃 | Asia  | http://feeds.bbci.co.uk/news/world/asia/rss.xml |
-| 〃 | 〃 | Europe  | http://feeds.bbci.co.uk/news/world/europe/rss.xml |
-| 〃 | 〃 | Latin America  | http://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
-| 〃 | 〃 | Middle East  | http://feeds.bbci.co.uk/news/world/middle_east/rss.xml |
-| 〃 | 〃 | North America  | http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
+| 〃 | 〃 | Business  | https://feeds.bbci.co.uk/news/business/rss.xml |
+| 〃 | 〃 | Politics  | https://feeds.bbci.co.uk/news/politics/rss.xml |
+| 〃 | 〃 | Health  | https://feeds.bbci.co.uk/news/health/rss.xml |
+| 〃 | 〃 | Education & Family  | https://feeds.bbci.co.uk/news/education/rss.xml |
+| 〃 | 〃 | Science & Enviroment  | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| 〃 | 〃 | Technology  | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| 〃 | 〃 | UK  | https://feeds.bbci.co.uk/news/uk/rss.xml |
+| 〃 | 〃 | England  | https://feeds.bbci.co.uk/news/england/rss.xml |
+| 〃 | 〃 | Scotland  | https://feeds.bbci.co.uk/news/scotland/rss.xml |
+| 〃 | 〃 | Wales  | httsp://feeds.bbci.co.uk/news/wales/rss.xml |
+| 〃 | 〃 | Northern Ireland  | https://feeds.bbci.co.uk/news/northern_ireland/rss.xml |
+| 〃 | 〃 | World  | https://feeds.bbci.co.uk/news/world/rss.xml |
+| 〃 | 〃 | Africa  | https://feeds.bbci.co.uk/news/world/africa/rss.xml |
+| 〃 | 〃 | Asia  | https://feeds.bbci.co.uk/news/world/asia/rss.xml |
+| 〃 | 〃 | Europe  | https://feeds.bbci.co.uk/news/world/europe/rss.xml |
+| 〃 | 〃 | Latin America  | https://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
+| 〃 | 〃 | Middle East  | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml |
+| 〃 | 〃 | North America  | https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
 |  |  |   |  |
 | UK | [techradar UK](https://www.techradar.com/uk) | Articles  | https://www.techradar.com/uk/feeds.xml |
 | 〃 | 〃 | News  | https://www.techradar.com/uk/feeds/articletype/news |
@@ -234,7 +234,7 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | http://feed.japan.zdnet.com/rss/index.rdf |
 |  |  |   |  |
-| JP |  [CNET Japan](http://japan.cnet.com/) | N/A  | http://feed.japan.cnet.com/rss/index.rdf |
+| JP |  [CNET Japan](https://japan.cnet.com/) | N/A  | https://feeds.japan.cnet.com/rss/cnet/all.rdf |
 |  |  |   |  |
 | JP | [ITmedia](https://www.itmedia.co.jp/) | N/A  | https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml |
 |  |  |   |  |
