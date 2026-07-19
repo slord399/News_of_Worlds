@@ -207,15 +207,15 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | 地域活性  | https://news.mynavi.jp/rss/kurashi/local_ict |
 | 〃 | 〃 | IIJ  | https://news.mynavi.jp/rss/digital/iij |
 |  |  |   |  |
-| JP | [NHK](https://www.nhk.or.jp/) | 主要  | https://www.nhk.or.jp/rss/news/cat0.xml |
-| 〃 | 〃 | 社会  | https://www.nhk.or.jp/rss/news/cat1.xml |
-| 〃 | 〃 | 科学・医療  | https://www.nhk.or.jp/rss/news/cat3.xml |
-| 〃 | 〃 | 政治  | https://www.nhk.or.jp/rss/news/cat4.xml |
-| 〃 | 〃 | 経済  | https://www.nhk.or.jp/rss/news/cat5.xml |
-| 〃 | 〃 | 国際  | https://www.nhk.or.jp/rss/news/cat6.xml |
-| 〃 | 〃 | スポーツ  | https://www.nhk.or.jp/rss/news/cat7.xml |
-| 〃 | 〃 | 文化・エンタメ  | https://www.nhk.or.jp/rss/news/cat2.xml |
-| 〃 | 〃 | Liveニュース  | https://www.nhk.or.jp/rss/news/cat-live.xml |
+| JP | [NHK](https://www.nhk.or.jp/) | 主要  | https://news.web.nhk/n-data/conf/na/rss/cat0.xml |
+| 〃 | 〃 | 社会  | https://news.web.nhk/n-data/conf/na/rss/cat1.xml |
+| 〃 | 〃 | 科学・医療  | https://news.web.nhk/n-data/conf/na/rss/cat3.xml |
+| 〃 | 〃 | 政治  | https://news.web.nhk/n-data/conf/na/rss/cat4.xml |
+| 〃 | 〃 | 経済  | https://news.web.nhk/n-data/conf/na/rss/cat5.xml |
+| 〃 | 〃 | 国際  | https://news.web.nhk/n-data/conf/na/rss/cat6.xml |
+| 〃 | 〃 | スポーツ  | https://news.web.nhk/n-data/conf/na/rss/cat7.xml |
+| 〃 | 〃 | 文化・エンタメ  | https://news.web.nhk/n-data/conf/na/rss/cat2.xml |
+| 〃 | 〃 | Liveニュース  | https://news.web.nhk/n-data/conf/na/rss/cat-live.xml |
 |  |  |   |  |
 | JP | [ロイター通信](https://x.com/ReutersJapan)) | N/A  | IFTTT (X: ReutersJapan / ReutersJpTech / ReutersJpBiz) |
 |  |  |   |  |
@@ -268,7 +268,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | クラウド Watch  | https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf |
 | 〃 | 〃 | 窓の社 Watch  | https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf |
 | 〃 | 〃 | こどもとIT Watch  | https://edu.watch.impress.co.jp/data/rss/1.0/kit/feed.rdf |
-| 〃 | 〃 | トラベル Watch  | http://travel.watch.impress.co.jp/docs/travel.rdf |
+| 〃 | 〃 | トラベル Watch  | https://travel.watch.impress.co.jp/data/rss/1.0/trw/feed.rdf |
 | 〃 | 〃 | グルメ Watch  | https://gourmet.watch.impress.co.jp/data/rss/1.0/grw/feed.rdf |
 | 〃 | 〃 | Manga Watch  | https://manga.watch.impress.co.jp/data/rss/1.0/mgw/feed.rdf |
 |  |  |   |  |
