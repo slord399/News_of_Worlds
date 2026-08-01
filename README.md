@@ -287,6 +287,10 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | Startup/Innovation  | https://techfeed.io/feeds/categories/Startup%20%2F%20Innovation |
 | 〃 | 〃 | DevOps/Agile  | https://techfeed.io/feeds/categories/DevOps%20%2F%20Agile |
 | 〃 | 〃 | Other  | https://techfeed.io/feeds/categories/Other |
+| JP | [4Gamer.net]([https://techfeed.io/](https://www.4gamer.net/) | 全記事  | https://www.4gamer.net/rss/index.xml |
+|  |  |   |  |
+| JP | [東京産業新聞社]([https://techfeed.io/](https://getnews.jp/)) | ガジェット通信  | https://getnews.jp/feed/ |
+| 〃 | 〃 | コンビニ通信  | https://conveni.getnews.jp/feed/ |
 
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
