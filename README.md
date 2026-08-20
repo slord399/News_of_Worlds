@@ -246,7 +246,9 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [ファミ通.com](https://x.com/famitsu)) | N/A  | IFTTT (X: famitsu) |
 |  |  |   |  |
-| JP | [CodeZine](https://codezine.jp/)) | N/A  | https://codezine.jp/rss/new/index.xml |
+| JP | [翔泳社](https://www.shoeisha.co.jp/)) | CodeZine  | https://codezine.jp/rss/new/index.xml |
+| 〃 | 〃 | DeveloperZine  | https://codezine.jp/rss/new/dz/20/index.xml |
+| 〃 | 〃 | ProductZine  | https://codezine.jp/rss/new/pz/20/index.xml |
 |  |  |   |  |
 | JP | [ASCII.jp](https://ascii.jp/) | メイン  | https://ascii.jp/rss.xml |
 | 〃 | 〃 | ビジネス  | https://ascii.jp/biz/rss.xml |
