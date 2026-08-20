@@ -217,7 +217,7 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | 文化・エンタメ  | https://news.web.nhk/n-data/conf/na/rss/cat2.xml |
 | 〃 | 〃 | Liveニュース  | https://news.web.nhk/n-data/conf/na/rss/cat-live.xml |
 |  |  |   |  |
-| JP | [ロイター通信](https://x.com/ReutersJapan)) | N/A  | IFTTT (X: ReutersJapan / ReutersJpTech / ReutersJpBiz) |
+| JP | [ロイター通信](https://x.com/ReutersJapan) | N/A  | IFTTT (X: ReutersJapan / ReutersJpTech / ReutersJpBiz) |
 |  |  |   |  |
 | JP | [FNN](https://www.itmedia.co.jp/) | N/A  | https://www.fnn.jp/list/feed/rss |
 |  |  |   |  |
@@ -244,9 +244,9 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [電ファミニコゲーマー](https://news.denfaminicogamer.jp/) | N/A  | https://news.denfaminicogamer.jp/feed |
 |  |  |   |  |
-| JP | [ファミ通.com](https://x.com/famitsu)) | N/A  | IFTTT (X: famitsu) |
+| JP | [ファミ通.com](https://x.com/famitsu) | N/A  | IFTTT (X: famitsu) |
 |  |  |   |  |
-| JP | [翔泳社](https://www.shoeisha.co.jp/)) | CodeZine  | https://codezine.jp/rss/new/index.xml |
+| JP | [翔泳社](https://www.shoeisha.co.jp/) | CodeZine  | https://codezine.jp/rss/new/index.xml |
 | 〃 | 〃 | DeveloperZine  | https://codezine.jp/rss/new/dz/20/index.xml |
 | 〃 | 〃 | ProductZine  | https://codezine.jp/rss/new/pz/20/index.xml |
 |  |  |   |  |
