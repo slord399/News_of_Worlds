@@ -217,6 +217,20 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | 文化・エンタメ  | https://news.web.nhk/n-data/conf/na/rss/cat2.xml |
 | 〃 | 〃 | Liveニュース  | https://news.web.nhk/n-data/conf/na/rss/cat-live.xml |
 |  |  |   |  |
+| JP | [オリコンニュース](https://www.oricon.co.jp/news/) | トップ  | https://assets.wor.jp/rss/rdf/oricon/top.rdf |
+| 〃 | 〃 | 芸能  | https://assets.wor.jp/rss/rdf/oricon/entertainment.rdf |
+| 〃 | 〃 | 音楽  | https://assets.wor.jp/rss/rdf/oricon/music.rdf |
+| 〃 | 〃 | 映画  | https://assets.wor.jp/rss/rdf/oricon/cinema.rdf |
+| 〃 | 〃 | スポーツ  | https://assets.wor.jp/rss/rdf/oricon/sports.rdf |
+| 〃 | 〃 | 社会  | https://assets.wor.jp/rss/rdf/oricon/society.rdf |
+| 〃 | 〃 | グルメ  | https://assets.wor.jp/rss/rdf/oricon/gourmet.rdf |
+| 〃 | 〃 | ビジネス  | https://assets.wor.jp/rss/rdf/oricon/business.rdf |
+| 〃 | 〃 | 趣味  | https://assets.wor.jp/rss/rdf/oricon/interest.rdf |
+| 〃 | 〃 | ビューティ  | https://assets.wor.jp/rss/rdf/oricon/beauty.rdf |
+| 〃 | 〃 | ファッション  | https://assets.wor.jp/rss/rdf/oricon/fashion.rdf |
+| 〃 | 〃 | ライフ  | https://assets.wor.jp/rss/rdf/oricon/life.rdf |
+| 〃 | 〃 | おでかけ  | https://assets.wor.jp/rss/rdf/oricon/spot.rdf |
+|  |  |   |  |
 | JP | [ロイター通信](https://x.com/ReutersJapan) | N/A  | IFTTT (X: ReutersJapan / ReutersJpTech / ReutersJpBiz) |
 |  |  |   |  |
 | JP | [FNN](https://www.itmedia.co.jp/) | N/A  | https://www.fnn.jp/list/feed/rss |
