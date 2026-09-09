@@ -307,6 +307,8 @@ Hope it help someone who is looking for info you need.
 |  |  |   |  |
 | JP | [東京産業新聞社](https://getnews.jp/) | ガジェット通信  | https://getnews.jp/feed/ |
 | 〃 | 〃 | コンビニ通信  | https://conveni.getnews.jp/feed/ |
+|  |  |   |  |
+| JP | [エルミタージュ秋葉原](https://www.gdm.or.jp/) | N/A  | https://www.gdm.or.jp/feed/ |
 
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
