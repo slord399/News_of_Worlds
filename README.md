@@ -309,6 +309,8 @@ Hope it help someone who is looking for info you need.
 | 〃 | 〃 | コンビニ通信  | https://conveni.getnews.jp/feed/ |
 |  |  |   |  |
 | JP | [エルミタージュ秋葉原](https://www.gdm.or.jp/) | N/A  | https://www.gdm.or.jp/feed/ |
+|  |  |   |  |
+| JP | [情報の灯台](https://joho-todai.com/) | N/A  | https://joho-todai.com/pinterest-rss/ |
 
 ### Other (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
