@@ -246,7 +246,7 @@ Hope it help someone who is looking for info you need.
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | JP | [Gigazine Japan](https://gigazine.net/) | N/A  | https://gigazine.net/news/rss_2.0/ |
 |  |  |   |  |
-| JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | http://feed.japan.zdnet.com/rss/index.rdf |
+| JP | [ZDNET Japan](http://japan.zdnet.com/) | N/A  | https://feeds.japan.zdnet.com/rss/zdnet/all.rdf |
 |  |  |   |  |
 | JP |  [CNET Japan](https://japan.cnet.com/) | N/A  | https://feeds.japan.cnet.com/rss/cnet/all.rdf |
 |  |  |   |  |
