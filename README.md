@@ -181,15 +181,7 @@ Hope it help someone who is looking for info you need.
 | JP | [47NEWS](https://www.47news.jp/) | 全国  | https://assets.wor.jp/rss/rdf/ynnews/news.rdf |
 | 〃 | 〃 | 地域  | https://assets.wor.jp/rss/rdf/ynlocalnews/news.rdf |
 |  |  |   |  |
-| JP | [ライブドアニュース](https://news.livedoor.com/) | 主要  | https://news.livedoor.com/topics/rss/top.xml |
-| 〃 | 〃 | 日本  | https://news.livedoor.com/topics/rss/dom.xml |
-| 〃 | 〃 | 海外  | https://news.livedoor.com/topics/rss/int.xml |
-| 〃 | 〃 | IT経済  | https://news.livedoor.com/topics/rss/eco.xml |
-| 〃 | 〃 | 芸能  | https://news.livedoor.com/topics/rss/ent.xml |
-| 〃 | 〃 | スポーツ  | https://news.livedoor.com/topics/rss/spo.xml |
-| 〃 | 〃 | 映画  | https://news.livedoor.com/rss/summary/52.xml |
-| 〃 | 〃 | 女子  | https://news.livedoor.com/topics/rss/love.xml |
-| 〃 | 〃 | トレンド  | https://news.livedoor.com/topics/rss/trend.xml |
+| JP | [ライブドアニュース](https://news.livedoor.com/) | 主要  | IFTTT (X:livedoornews) |
 |  |  |   |  |
 | JP | [マイナビニュース](https://news.mynavi.jp/) | 総合  | https://news.mynavi.jp/rss/index |
 | 〃 | 〃 | 企業IT  | https://news.mynavi.jp/rss/techplus/enterprise |
