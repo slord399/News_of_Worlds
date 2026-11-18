@@ -232,6 +232,8 @@ Hope it help someone who is looking for info you need.
 | JP | [NNN24](https://news.ntv.co.jp/) | N/A  | https://news.ntv.co.jp/rss/index.rdf |
 |  |  |   |  |
 | JP | [PR Times](https://prtimes.jp/) | N/A  | https://prtimes.jp/index.rdf |
+|  |  |   |  |
+| JP | [セイコーマート](https://www.seicomart.co.jp/) | N/A  | IFTTT (X: Seicomart_TW) |
 
 ### IT (Japanese/日本語)
 | Country  | Provider  | Category | Feed URLs |
